@@ -10,7 +10,7 @@ I'm currently focused on developing a novel design pattern and framework to supp
 
 ## 🔭 Focus Areas
 
-- Agentic AI systems in pharma, underwriting, and compliance
+- Agentic AI systems for highly regulated industries
 - Knowledge graph‑driven agent topologies (Neo4j + hybrid retrieval)
 - AI systems with audit trails, test gates, and safety constraints baked into design
 - Interactive data storytelling (D3.js knowledge maps, dashboards, automation control centers)
@@ -19,7 +19,7 @@ I'm currently focused on developing a novel design pattern and framework to supp
 
 ## 🤝 Open to
 
-- Collaboration on regulated‑domain AI (pharma, legal, financial, healthcare)
+- Collaboration on agentic AI for highly regulated industries
 - Speaking or advisory conversations on agentic AI governance and safety
 - Practitioner co‑authorship on agentic systems design
 
@@ -38,15 +38,28 @@ I'm currently focused on developing a novel design pattern and framework to supp
 
 #### AI / Agentic Systems
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Multi‑Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-7B68EE?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1A1A2E?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-4B8BBE?style=flat)
+![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-5C6BC0?style=flat)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-00897B?style=flat)
+![State Management](https://img.shields.io/badge/State_Management-546E7A?style=flat)
+![Graph Workflows](https://img.shields.io/badge/Graph_Workflows-37474F?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00BCD4?style=flat)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-FF7043?style=flat)
+![HITL](https://img.shields.io/badge/Human--in--the--Loop_(HITL)-78909C?style=flat)
 ![MCP](https://img.shields.io/badge/MCP_(Model_Context_Protocol)-000000?style=flat)
 
 #### Data, Graphs & Storage
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC143C?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-7E57C2?style=flat)
+![Chunking Strategies](https://img.shields.io/badge/Chunking_Strategies-8D6E63?style=flat)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white)
 
 #### Backend & APIs
@@ -66,7 +79,10 @@ I'm currently focused on developing a novel design pattern and framework to supp
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat&logo=playwright&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=flat)
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-007ACC?style=flat)
+![Deterministic Tools](https://img.shields.io/badge/Deterministic_Tools-455A64?style=flat)
 ![Audit Chains](https://img.shields.io/badge/Tamper--Evident_Audit_Chain-2C3E50?style=flat)
+![Risk Scoring](https://img.shields.io/badge/Risk_Scoring-B71C1C?style=flat)
+![Bias Detection](https://img.shields.io/badge/Bias_Detection-6A1B9A?style=flat)
 
 #### DevOps & Tooling
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -78,6 +94,7 @@ I'm currently focused on developing a novel design pattern and framework to supp
 #### Compliance & Governance
 ![AI Governance](https://img.shields.io/badge/AI_Governance-003399?style=flat)
 ![AI Audit](https://img.shields.io/badge/AI_Audit-1F4E79?style=flat)
+![PII Protection](https://img.shields.io/badge/PII_Protection-C62828?style=flat)
 ![Privacy by Design](https://img.shields.io/badge/Privacy_by_Design-003399?style=flat)
 ![EU AI Act](https://img.shields.io/badge/EU_AI_Act-005EB8?style=flat)
 
@@ -87,8 +104,8 @@ I'm currently focused on developing a novel design pattern and framework to supp
 
 | Project | What it is | Highlights |
 |--------|------------|------------|
-| **Regulatory Strategy AI** *(private — IP protected)* | Production regulatory intelligence platform for FDA/EMA orphan designation strategy | Knowledge graph + hybrid retrieval · Multi‑agent orchestration · Tamper‑evident audit trail · Pharma‑grade validation and test discipline |
-| [JHU Agentic AI Portfolio](https://github.com/jennifer-mckinney/jhu-agentic-ai-portfolio) | 3 agentic systems: DualLens analytics, autonomous financial analyst, mortgage underwriting assistant | Multi‑agent pipelines · Front‑end deliverables (HTML + notebooks) · Audit‑trail mindset |
+| **Production AI Platform** *(private — IP protected)* | Deployed agentic AI platform for highly regulated industries | Knowledge graph + hybrid retrieval · Multi‑agent orchestration · Tamper‑evident audit trail · Production‑grade validation and test discipline |
+| [JHU Agentic AI Portfolio](https://github.com/jennifer-mckinney/jhu-agentic-ai-portfolio) | 3 agentic systems built across the JHU Agentic AI programme | Multi‑agent pipelines · LangGraph orchestration · RAG pipelines · Compliance controls · Full audit trails |
 | **AI Developer Toolkit** *(private)* | Reusable modular skill library for building agentic systems | RAG + KG builders · FastAPI & Express/WebSocket backends · Frontend component system · Testing & validation pipelines · Git workflow automation |
 | **Knowledge Map** *(private)* | Interactive knowledge graph with NLP extraction and automation control center | D3.js + SVG · Multi‑layout views · Keyboard shortcuts · Cross‑browser test plan |
 | [Automation Scripts](https://github.com/jennifer-mckinney/automationgit) | Automation utilities and Claude Desktop workflow helpers | Python · File organization automation · Claude MCP integration |
