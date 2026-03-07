@@ -1,17 +1,16 @@
 ### Hi there, I'm Jennifer McKinney 👋
 
-I build **agentic AI systems for regulated domains** — combining knowledge graphs, multi‑agent orchestration, and constraint‑native design to deliver production AI that regulators, clinicians, and compliance teams can trust and verify.
+I build **agentic AI systems for regulated domains** — production systems where safety, compliance, and data integrity are built in, not bolted on.
 
-I coined the term **Constraint‑Native Architecture**: a methodology where regulatory, privacy, and safety constraints are the *generative* logic behind an agent's structure — not a governance layer bolted on afterwards.
+My work sits at the intersection of agentic AI engineering and formal AI governance. I hold certifications from Johns Hopkins (Agentic AI), Oxford Saïd Business School (AI Ethics, Regulations & Compliance), and oxethica (Certified AI Auditor · Certified AI Ethicist · Certified AI Professional) — one of the few practitioners who combines hands‑on production agentic systems with formal audit and governance credentials.
 
-I hold certifications in agentic AI engineering (JHU), AI ethics and regulations compliance (Oxford Saïd Business School), and formal AI audit/governance (oxethica CAIA/CAIE/CAIP) — bridging hands‑on agentic systems work with certified AI governance expertise.
+I'm currently focused on developing a novel design pattern and framework to support agentic AI systems. More soon.
 
 ---
 
 ## 🔭 Focus Areas
 
 - Agentic AI systems in pharma, underwriting, and compliance
-- Constraint‑native architecture patterns: PII non‑acquisition, RegOntology‑first agents, tamper‑evident validation graphs
 - Knowledge graph‑driven agent topologies (Neo4j + hybrid retrieval)
 - AI systems with audit trails, test gates, and safety constraints baked into design
 - Interactive data storytelling (D3.js knowledge maps, dashboards, automation control centers)
@@ -22,7 +21,7 @@ I hold certifications in agentic AI engineering (JHU), AI ethics and regulations
 
 - Collaboration on regulated‑domain AI (pharma, legal, financial, healthcare)
 - Speaking or advisory conversations on agentic AI governance and safety
-- Practitioner co‑authorship on constraint‑native design / privacy‑by‑design for agentic systems
+- Practitioner co‑authorship on agentic systems design
 
 ---
 
@@ -89,7 +88,7 @@ I hold certifications in agentic AI engineering (JHU), AI ethics and regulations
 | Project | What it is | Highlights |
 |--------|------------|------------|
 | **Regulatory Strategy AI** *(private — IP protected)* | Production regulatory intelligence platform for FDA/EMA orphan designation strategy | Knowledge graph + hybrid retrieval · Multi‑agent orchestration · Tamper‑evident audit trail · Pharma‑grade validation and test discipline |
-| [JHU Agentic AI Portfolio](https://github.com/jennifer-mckinney/jhu-agentic-ai-portfolio) | 3 agentic systems: DualLens analytics, autonomous financial analyst, mortgage underwriting assistant | Multi‑agent pipelines · Front‑end deliverables (HTML + notebooks) · Audit‑trail mindset · PII non‑acquisition pattern |
+| [JHU Agentic AI Portfolio](https://github.com/jennifer-mckinney/jhu-agentic-ai-portfolio) | 3 agentic systems: DualLens analytics, autonomous financial analyst, mortgage underwriting assistant | Multi‑agent pipelines · Front‑end deliverables (HTML + notebooks) · Audit‑trail mindset |
 | **AI Developer Toolkit** *(private)* | Reusable modular skill library for building agentic systems | RAG + KG builders · FastAPI & Express/WebSocket backends · Frontend component system · Testing & validation pipelines · Git workflow automation |
 | **Knowledge Map** *(private)* | Interactive knowledge graph with NLP extraction and automation control center | D3.js + SVG · Multi‑layout views · Keyboard shortcuts · Cross‑browser test plan |
 | [Automation Scripts](https://github.com/jennifer-mckinney/automationgit) | Automation utilities and Claude Desktop workflow helpers | Python · File organization automation · Claude MCP integration |
@@ -98,14 +97,11 @@ I hold certifications in agentic AI engineering (JHU), AI ethics and regulations
 
 ## ✍️ Design Philosophy
 
-> *"Start from what the system must never do. Let that generate the architecture."*
+> *"Architecture should make unsafe behavior structurally impossible — not just discouraged."*
 
-I use **multi‑dimensional problem decomposition** — regulatory/legal, data/privacy, and operational context — before designing any agent or pipeline. Patterns I apply:
+I approach agentic systems by decomposing the problem space before writing a line of architecture. The systems I build are defined as much by what they cannot do as by what they can — and every autonomous decision is a verifiable, auditable event, not just a log line.
 
-- **PII non‑acquisition**: if the system can solve the problem without ingesting identity data, it never does
-- **Constraint‑aligned agents**: roles derived from a constraint model (ontology/graph), not just functional decomposition
-- **Negative‑space design**: systems defined as much by what they *cannot* do as by what they can
-- **Tamper‑evident validation graphs**: each autonomous decision is a verifiable node, not just a log line
+*(A formal methodology is in development — details forthcoming.)*
 
 ---
 
