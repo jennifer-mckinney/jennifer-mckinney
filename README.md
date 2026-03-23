@@ -2,11 +2,11 @@
 
 **AI Systems Architect · Constraint-Native Architecture· Regulated-Domain AI**
 
-I build agentic AI systems for high-stakes, regulated industries — production deployments where safety, compliance, and auditability are structurally baked into the architecture, not retrofitted after the fact.
+I build agentic AI systems for high-stakes, regulated industries production deployments where safety, compliance, and auditability are structurally baked into the architecture, not retrofitted after the fact.
 
-I coined the term **Constraint-Native Architecture**: a methodology where regulatory, privacy, and safety constraints are the *generative logic* behind an agent's design — not a governance layer added afterwards. The system can't violate constraints because it was never designed to permit that path.
+I coined the term **Constraint-Native Architecture**: a methodology where regulatory, privacy, and safety constraints are the *generative logic* behind an agent's design not a governance layer added afterwards. The system can't violate constraints because it was never designed to permit that path.
 
-I hold credentials from Johns Hopkins (Agentic AI), Oxford Saïd Business School (AI Ethics, Regulations & Compliance), and oxethica (Certified AI Auditor · Certified AI Ethicist · Certified AI Professional) — one of the few practitioners combining hands-on production agentic systems with formal audit and governance training.
+I hold credentials from Johns Hopkins (Agentic AI), Oxford Saïd Business School (AI Ethics, Regulations & Compliance), and oxethica (Certified AI Auditor · Certified AI Ethicist · Certified AI Professional) one of the few practitioners combining hands-on production agentic systems with formal audit and governance training.
 
 ---
 
@@ -15,7 +15,7 @@ I hold credentials from Johns Hopkins (Agentic AI), Oxford Saïd Business School
 - Production agentic AI for pharma strategy, financial compliance, and regulated-domain workflows
 - **Constraint-Native Architecture** patterns: PII non-acquisition by design, RegOntology-first agents, tamper-evident validation graphs
 - Knowledge graph-driven agent topologies (Neo4j + hybrid retrieval)
-- Reusable AI developer toolkit — RAG pipelines, validation frameworks, multi-agent orchestration
+- Reusable AI developer toolkit RAG pipelines, validation frameworks, multi-agent orchestration
 - Interactive data storytelling: D3.js knowledge graph visualizations and automation control centers
 
 ---
@@ -33,22 +33,22 @@ I hold credentials from Johns Hopkins (Agentic AI), Oxford Saïd Business School
 
 | Project | What it is | Stack & Highlights |
 |---|---|---|
-| **Compliance-Native AI Platform** *(private — IP protected)* | Deployed agentic AI for a regulated-domain use case — regulatory intelligence, strategy support, and audit-grade traceability | Python · Neo4j · LangGraph · Hybrid RAG · Tamper-evident audit chain · Confidence-gated autonomy loop · PII non-acquisition by design |
+| **Compliance-Native AI Platform** *(private IP protected)* | Deployed agentic AI for a regulated-domain use case regulatory intelligence, strategy support, and audit-grade traceability | Python · Neo4j · LangGraph · Hybrid RAG · Tamper-evident audit chain · Confidence-gated autonomy loop · PII non-acquisition by design |
 | [**JHU Agentic AI Portfolio**](https://github.com/jennifer-mckinney/jhu-agentic-ai-portfolio) | Three production-grade agentic systems built in the JHU Agentic AI programme | Multi-agent pipelines · LangGraph orchestration · RAG · Autonomous Financial Analyst · Mortgage Underwriting System with full audit trail |
 | [**AI Interview Coach**](https://github.com/jennifer-mckinney/interview-practice-app) | Production AI app with resume-aware question generation, real-time evaluation, and voice coaching | Python · FastAPI · OpenAI Realtime API · WebRTC · Session persistence · PRD + architecture docs |
 | **Knowledge Map** *(private)* | Interactive knowledge graph with NLP extraction, multi-layout visualization, and automation control center | D3.js · SVG · Neo4j · Cross-browser test plan · Keyboard navigation system |
-| **AI Developer Toolkit** *(private)* | Modular, reusable skill library for building agentic systems — RAG, knowledge graphs, validation, testing | Python · FastAPI · Streamlit · ChromaDB · Qdrant · GitHub Actions · Pre-commit discipline |
+| **AI Developer Toolkit** *(private)* | Modular, reusable skill library for building agentic systems RAG, knowledge graphs, validation, testing | Python · FastAPI · Streamlit · ChromaDB · Qdrant · GitHub Actions · Pre-commit discipline |
 | [**LLM-Assisted D3 Visualization**](https://github.com/jennifer-mckinney/blog-llm-code-assist) | Research exploration: using LLMs to write and refactor D3.js visualization code | JavaScript · D3.js · Claude API · Observable |
 
 ---
 
 ## Design Philosophy
 
-> *"Architecture should make unsafe behavior structurally impossible — not just discouraged."*
+> *"Architecture should make unsafe behavior structurally impossible not just discouraged."*
 
-I approach agentic systems by decomposing the problem space before writing a line of architecture. The systems I design are defined as much by what they **cannot** do as by what they can — and every autonomous decision is a verifiable, auditable event, not a log entry.
+I approach agentic systems by decomposing the problem space before writing a line of architecture. The systems I design are defined as much by what they **cannot** do as by what they can and every autonomous decision is a verifiable, auditable event, not a log entry.
 
-I work from **negative space**: I define what the system must never do, must never store, must never infer without permission — and the resulting design emerges from those constraints rather than fighting them. This produces more compliant, more robust, and more trustworthy systems than any post-hoc governance layer can achieve.
+I work from **negative space**: I define what the system must never do, must never store, must never infer without permission and the resulting design emerges from those constraints rather than fighting them. This produces more compliant, more robust, and more trustworthy systems than any post-hoc governance layer can achieve.
 
 ---
 
