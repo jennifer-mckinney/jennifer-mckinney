@@ -33,7 +33,7 @@ I hold credentials from Johns Hopkins (Agentic AI), Oxford Saïd Business School
 
 | Project | What it is | Stack & Highlights |
 |---|---|---|
-| **Compliance-Native AI Platform** *(private IP protected)* | Deployed agentic AI for a regulated-domain use case regulatory intelligence, strategy support, and audit-grade traceability | Python · Neo4j · LangGraph · Hybrid RAG · Tamper-evident audit chain · Confidence-gated autonomy loop · PII non-acquisition by design |
+| **Compliance-Native AI Platform** *(Patent Pending )* | Deployed agentic AI for a regulated-domain use case regulatory intelligence, strategy support, and audit-grade traceability | Python · Neo4j · LangGraph · Hybrid RAG · Tamper-evident audit chain · Confidence-gated autonomy loop · PII non-acquisition by design |
 | [**JHU Agentic AI Portfolio**](https://github.com/jennifer-mckinney/jhu-agentic-ai-portfolio) | Three production-grade agentic systems built in the JHU Agentic AI programme | Multi-agent pipelines · LangGraph orchestration · RAG · Autonomous Financial Analyst · Mortgage Underwriting System with full audit trail |
 | [**AI Interview Coach**](https://github.com/jennifer-mckinney/interview-practice-app) | Production AI app with resume-aware question generation, real-time evaluation, and voice coaching | Python · FastAPI · OpenAI Realtime API · WebRTC · Session persistence · PRD + architecture docs |
 | **Knowledge Map** *(private)* | Interactive knowledge graph with NLP extraction, multi-layout visualization, and automation control center | D3.js · SVG · Neo4j · Cross-browser test plan · Keyboard navigation system |
