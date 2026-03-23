@@ -1,6 +1,6 @@
 # Jennifer McKinney
 
-**AI Systems Architect · Constraint-Native Design · Regulated-Domain AI**
+**AI Systems Architect · Constraint-Native Architecture· Regulated-Domain AI**
 
 I build agentic AI systems for high-stakes, regulated industries — production deployments where safety, compliance, and auditability are structurally baked into the architecture, not retrofitted after the fact.
 
